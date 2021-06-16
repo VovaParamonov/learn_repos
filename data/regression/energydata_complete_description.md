@@ -9,61 +9,61 @@ The data set is at 10 min for about 4.5 months. The house temperature and humidi
 
 date time year-month-day hour:minute:second
 
-Appliances, energy use in Wh
+Appliances, используемая энергия в Ват/час 
 
-lights, energy use of light fixtures in the house in Wh
+lights, использование энергии светильников в доме 
 
-T1, Temperature in kitchen area, in Celsius
+T1, Температура в кухонной зоне, в градусах Цельсия
 
-RH_1, Humidity in kitchen area, in %
+RH_1, Влажность в кухонной зоне, в %
 
-T2, Temperature in living room area, in Celsius
+T2, Температура в гостиной, в градусах Цельсия
 
-RH_2, Humidity in living room area, in %
+RH_2, Влажность в зоне гостиной, в %
 
-T3, Temperature in laundry room area
+T3, Температура в зоне прачечной
 
-RH_3, Humidity in laundry room area, in %
+RH_3, Влажность в зоне прачечной, в %
 
-T4, Temperature in office room, in Celsius
+T4, Температура в офисном помещении, в градусах Цельсия
 
-RH_4, Humidity in office room, in %
+RH_4, Влажность в офисном помещении, в %
 
-T5, Temperature in bathroom, in Celsius
+T5, Температура в ванной комнате, в градусах Цельсия
 
-RH_5, Humidity in bathroom, in %
+RH_5, Влажность в ванной комнате, в %
 
-T6, Temperature outside the building (north side), in Celsius
+T6, Температура снаружи здания (северная сторона), в градусах Цельсия
 
-RH_6, Humidity outside the building (north side), in %
+RH_6, Влажность снаружи здания (северная сторона), в %
 
-T7, Temperature in ironing room , in Celsius
+T7, Температура в гладильной комнате , в градусах Цельсия
 
-RH_7, Humidity in ironing room, in %
+RH_7, Влажность в гладильной комнате, в %
 
-T8, Temperature in teenager room 2, in Celsius
+T8, Температура в комнате для подростков 2, в градусах Цельсия
 
-RH_8, Humidity in teenager room 2, in %
+RH_8, Влажность в комнате для подростков 2, в %
 
-T9, Temperature in parents room, in Celsius
+T9, Температура в комнате родителей, в градусах Цельсия
 
-RH_9, Humidity in parents room, in %
+RH_9, Влажность в родительской комнате, в %
 
-To, Temperature outside (from Chievres weather station), in Celsius
+To, Температура снаружи (от метеостанции Кьевр), в градусах Цельсия
 
-Pressure (from Chievres weather station), in mm Hg
+Pressure (от метеостанции Кьевр), в мм рт. ст.
 
-RH_out, Humidity outside (from Chievres weather station), in %
+RH_out, Влажность снаружи (от метеостанции Кьевр), в %
 
-Wind speed (from Chievres weather station), in m/s
+Wind speed, м/с
 
-Visibility (from Chievres weather station), in km
+Видимость, в км
 
-Tdewpoint (from Chievres weather station), Â°C
+Tdewpoint, ° C
 
-rv1, Random variable 1, nondimensional
+rv1, Случайная величина 1, безразмерная
 
-rv2, Random variable 2, nondimensional
+rv2, Случайная величина 2, безразмерная
 
 
-Where indicated, hourly data (then interpolated) from the nearest airport weather station (Chievres Airport, Belgium) was downloaded from a public data set from Reliable Prognosis, rp5.ru. Permission was obtained from Reliable Prognosis for the distribution of the 4.5 months of weather data.
+Там, где указано, почасовые данные (затем интерполированные) с ближайшей метеостанции аэропорта (аэропорт Кьевр, Бельгия) были загружены из общедоступного набора данных из Надежного прогноза, rp5.ru. Разрешение было получено из Достоверного прогноза для распределения данных о погоде за 4,5 месяца.
